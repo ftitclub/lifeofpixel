@@ -54,7 +54,7 @@ const LotrGroundLayer = React.memo(props => {
           }}
         >
           <h2 style={{ color: "black" }}>Important links:</h2>
-          <h3 style={{ color: "blue" }}><a style={{ textDecoration: "none", color:"yellow" }} href="https://twitter.com/lifeofpixel" target={"_blank"}>TWITTER</a></h3>
+          <h3 style={{ color: "blue" }}><a style={{ textDecoration: "none", color:"yellow" }} href="https://twitter.com/lifeofpixelerc" target={"_blank"}>TWITTER</a></h3>
         </SceneObject>
         <Brief font={{ color: "black" }} content={{ h1: 'Beware, Tokenomics incoming!' }} transform={{ position: { x: 4800, y: 250 } }} />
       </BrowserView>
@@ -69,7 +69,7 @@ const LotrGroundLayer = React.memo(props => {
           }}
         >
           <h2 style={{ color: "black" }}>Important links:</h2>
-          <h3 style={{ color: "blue" }}><a style={{ textDecoration: "none", color:"yellow" }} href="https://twitter.com/lifeofpixel" target={"_blank"}>TWITTER</a></h3>
+          <h3 style={{ color: "blue" }}><a style={{ textDecoration: "none", color:"yellow" }} href="https://twitter.com/lifeofpixelerc" target={"_blank"}>TWITTER</a></h3>
         </SceneObject>
         <Brief font={{ color: "black" }} content={{ h1: 'Tokenomics incoming!'  }} transform={{ position: { x: 4800, y: 1000 } }} />
       </MobileView>
