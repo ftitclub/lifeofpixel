@@ -1,5 +1,5 @@
 {
-  "name": "Life of Pixel",
+  "name": "lop",
   "version": "1.0.0",
   "description": "Welcome to the Life of Pixel!",
   "private": true,
@@ -11,7 +11,6 @@
     "super heroes"
   ],
   "license": "MIT",
-  "author": "dev-david",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
